@@ -18,7 +18,8 @@ list_of_files = [
     "setup.py",
     "app.py",
     "research/trials.ipynb",
-    "trials.py"
+    "trials.py",
+    "store_index.py"
 ]
 
 
